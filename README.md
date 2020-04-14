@@ -1,3 +1,3 @@
-# iOS SDK使用指南
+# TATMediaSDK 使用指南
 
-[iOS SDK对接文档](https://shimo.im)
+[TATMediaSDK 对接文档](https://shimo.im/docs/uwqpRUnrmCA0qeGw)
